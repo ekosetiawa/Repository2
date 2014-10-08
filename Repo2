@@ -1,0 +1,12 @@
+public class eko_setiawan {
+
+    
+    public static void main(String[] args) {
+       String nama ="EKO SETIAWAN";
+       String npm  ="12311455";
+        System.out.println(nama+"\n"+npm);
+        System.out.println("TEKNOKRAT");
+        System.out.println("SANG JUARA");
+        System.out.println("CERDAS, KREATIF & INOVATIF");
+    }
+}
